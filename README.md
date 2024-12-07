@@ -27,6 +27,8 @@ A perfect Tic Tac Toe strategy always leads to a win or a draw for the first pla
 The game is known as "Noughts and Crosses" in the UK and "Xs and Os" in other regions.
 
 Screenshots
+
+
 ![image](https://github.com/user-attachments/assets/0fbedc67-ad35-414c-85b3-b2e8dbf3843b)
 
 ![image](https://github.com/user-attachments/assets/cc5d3972-9cc2-45a6-aac7-479fcb97798b)
